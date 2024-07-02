@@ -1,9 +1,22 @@
-# React TypeScript Starter Pack
+### my_react_todo-app-with-api  
 
-To use this template click `Use this template`
+- [DEMO] (https://zvir91.github.io/my_react_todo-app-with-api/);  
+- [GitHub] (https://github.com/zvir91/my_react_todo-app-with-api);  
+- [Mockup] (https://mate-academy.github.io/react_todo-app-with-api/);  
 
-### Available Scripts
+## Technologies were used:   
 
-`Deploy` - available to deploy your application to gh-pages
+This project uses the following technologies:  
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+- **TypeScript**: A statically typed superset of JavaScript, used for type safety and better developer tooling.  
+- **React**: A JavaScript library for building user interfaces, particularly single-page applications.  
+- **React Hooks**: Utilized for managing state and side effects in functional components.  
+- **Classnames**: A utility for conditionally joining classNames together.  
+- **Axios**: A promise-based HTTP client used for making requests to a backend API.  
+- **CSS Modules**: A CSS file in which all class and animation names are scoped locally by default.  
+
+## To tun project:   
+
+- git clone;  
+- npm install;  
+- npm start;   
